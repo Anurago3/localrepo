@@ -1,2 +1,1 @@
-#This is my local Repo
-clear
+# This is my local Repo
